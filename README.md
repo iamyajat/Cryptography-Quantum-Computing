@@ -1,6 +1,6 @@
 # Cryptography using Quantum Computing
 
-Project for Cybersecurity (CSE4003)
+Project for Cyber Security (CSE4003)
 
 Submitted by:
 
